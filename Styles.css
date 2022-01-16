@@ -1,0 +1,22 @@
+body {
+    color: whitesmoke;
+}
+
+.black {
+    background-color: black;
+}
+
+.purple {
+    background-color: rgb(100, 39, 158);
+    text-align: center;
+}
+.blue{
+    background-color: rgb(88, 134, 219);
+    text-align: right;
+}
+
+span {
+    color: rgb(91, 238, 231);
+}
+
+
